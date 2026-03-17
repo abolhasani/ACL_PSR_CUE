@@ -1,0 +1,128 @@
+[
+  {
+    "name": "D1_eyecream_calcium_selfdisclose",
+    "input": {
+      "msgTag": "PRIVATEMESSAGE",
+      "raw_msg": "it’s time for us to get on that eye cream and calcium supplements"
+    },
+    "gold": {
+      "DirectAddress": "",
+      "Attachment": "",
+      "SelfDisclose": "Y",
+      "ReplySeeking": "",
+      "CommRitual": "",
+      "Monetary": "",
+      "Backseat": "",
+      "Emotes": "",
+      "Dimension": "P"
+    }
+  },
+  {
+    "name": "D2_time_for_bed_none",
+    "input": {
+      "msgTag": "PRIVATEMESSAGE",
+      "raw_msg": "its time for bed"
+    },
+    "gold": {
+      "DirectAddress": "",
+      "Attachment": "",
+      "SelfDisclose": "",
+      "ReplySeeking": "",
+      "CommRitual": "",
+      "Monetary": "",
+      "Backseat": "",
+      "Emotes": "",
+      "Dimension": "P"
+    }
+  },
+  {
+    "name": "D3_pokemon_letsgo_commritual_usernotice_monetary",
+    "input": {
+      "msgTag": "USERNOTICE",
+      "raw_msg": "just in time for more pokemon LETSGO"
+    },
+    "gold": {
+      "DirectAddress": "",
+      "Attachment": "",
+      "SelfDisclose": "",
+      "ReplySeeking": "",
+      "CommRitual": "Y",
+      "Monetary": "Y",
+      "Backseat": "",
+      "Emotes": "",
+      "Dimension": "P"
+    }
+  },
+  {
+    "name": "D4_about_talk_sabotage_none",
+    "input": {
+      "msgTag": "PRIVATEMESSAGE",
+      "raw_msg": "leslie is playing to sabotage om"
+    },
+    "gold": {
+      "DirectAddress": "",
+      "Attachment": "",
+      "SelfDisclose": "",
+      "ReplySeeking": "",
+      "CommRitual": "",
+      "Monetary": "",
+      "Backseat": "",
+      "Emotes": "",
+      "Dimension": "P"
+    }
+  },
+  {
+    "name": "D5_pokeslayer_attachment_only",
+    "input": {
+      "msgTag": "PRIVATEMESSAGE",
+      "raw_msg": "Leslie the PokeSlayer PokPikachu"
+    },
+    "gold": {
+      "DirectAddress": "",
+      "Attachment": "Y",
+      "SelfDisclose": "",
+      "ReplySeeking": "",
+      "CommRitual": "",
+      "Monetary": "",
+      "Backseat": "",
+      "Emotes": "",
+      "Dimension": "P"
+    }
+  },
+  {
+    "name": "D6_what_i_missed_directaddress_replyseeking_emotes",
+    "input": {
+      "msgTag": "PRIVATEMESSAGE",
+      "raw_msg": "leslie what i missed??? fusKiss"
+    },
+    "gold": {
+      "DirectAddress": "Y",
+      "Attachment": "",
+      "SelfDisclose": "",
+      "ReplySeeking": "Y",
+      "CommRitual": "",
+      "Monetary": "",
+      "Backseat": "",
+      "Emotes": "Y",
+      "Dimension": "P"
+    }
+  },
+  {
+    "name": "D7_shirts_hitting_directaddress_attachment_replyseeking",
+    "input": {
+      "msgTag": "PRIVATEMESSAGE",
+      "raw_msg": "Leslie why do your shirts always be hitting lol"
+    },
+    "gold": {
+      "DirectAddress": "Y",
+      "Attachment": "Y",
+      "SelfDisclose": "",
+      "ReplySeeking": "Y",
+      "CommRitual": "",
+      "Monetary": "",
+      "Backseat": "",
+      "Emotes": "",
+      "Dimension": "P"
+    }
+  }
+]

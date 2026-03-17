@@ -1,0 +1,800 @@
+{
+  "n_variants": 5,
+  "variants": {
+    "1": [
+      {
+        "name": "D1_eyecream_calcium_selfdisclose",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "it’s time for us to get on that eye cream and calcium supplements"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "Y",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "SelfDisclose": "Uses “for us” about aging/self-care choices, sharing a collective personal circumstance with the streamer/chat.",
+          "Dimension": "Non-hostile, lighthearted comment about self-care that implies friendly camaraderie."
+        }
+      },
+      {
+        "name": "D2_time_for_bed_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "its time for bed"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "Statement “its time for bed” is neutral-friendly and non-hostile, so it is treated as positive/affiliative."
+        }
+      },
+      {
+        "name": "D3_pokemon_letsgo_commritual_usernotice_monetary",
+        "input": {
+          "msgTag": "USERNOTICE",
+          "raw_msg": "just in time for more pokemon LETSGO"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "Y",
+          "Monetary": "Y",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "CommRitual": "The hype phrase “LETSGO” is a shared chant-style expression common in Twitch community ritual.",
+          "Monetary": "msgTag is USERNOTICE, so by hard rule this message must be labeled as involving monetary support.",
+          "Dimension": "Excited and supportive tone about watching more Pokémon content shows a positive stance toward the stream."
+        }
+      },
+      {
+        "name": "D4_about_talk_sabotage_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie is playing to sabotage om"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "Playful remark that Leslie is “playing to sabotage om” reads as light teasing rather than hostile criticism."
+        }
+      },
+      {
+        "name": "D5_pokeslayer_attachment_only",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie the PokeSlayer PokPikachu"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Attachment": "Uses “Leslie the PokeSlayer” as a nickname showing affectionate admiration toward the streamer.",
+          "Dimension": "Playful, admiring nickname expresses a positive, supportive stance toward the streamer."
+        }
+      },
+      {
+        "name": "D6_what_i_missed_directaddress_replyseeking_emotes",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie what i missed??? fusKiss"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "Y",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "Uses the name “leslie” at the start, signaling the streamer is being directly addressed.",
+          "ReplySeeking": "Asks “what i missed???” which explicitly requests an update/answer from the streamer or chat.",
+          "Emotes": "Includes the emote token “fusKiss” at the end of the message.",
+          "Dimension": "Curious and friendly tone with a kiss emote indicates a positive, affiliative stance."
+        }
+      },
+      {
+        "name": "D7_shirts_hitting_directaddress_attachment_replyseeking",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie why do your shirts always be hitting lol"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "Uses the streamer’s name “Leslie” at the start, clearly addressing her directly.",
+          "Attachment": "Complimenting “your shirts always be hitting” expresses positive appreciation of the streamer’s style.",
+          "ReplySeeking": "Asking “why do your shirts always be hitting” is a direct question inviting a response.",
+          "Dimension": "Playful, complimentary tone about her shirts is supportive and positive."
+        }
+      }
+    ],
+    "2": [
+      {
+        "name": "D1_eyecream_calcium_selfdisclose",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "it’s time for us to get on that eye cream and calcium supplements"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "Y",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "SelfDisclose": "By rule, sharing personal/collective circumstance counts as self-disclosure; “for us to get on that eye cream and calcium supplements” reve…",
+          "Dimension": "Per valence rules, this is non-hostile and playfully supportive, discussing self-care together in a light tone."
+        }
+      },
+      {
+        "name": "D2_time_for_bed_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "its time for bed"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "Per valence rule, message is neutral-friendly and non-hostile, so it is treated as positive/affiliative (P)."
+        }
+      },
+      {
+        "name": "D3_pokemon_letsgo_commritual_usernotice_monetary",
+        "input": {
+          "msgTag": "USERNOTICE",
+          "raw_msg": "just in time for more pokemon LETSGO"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "Y",
+          "Monetary": "Y",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "CommRitual": "Rule: Ritual hype/chant counts; “LETSGO” is a classic shared hype chant tied to community excitement.",
+          "Monetary": "Rule: Any USERNOTICE msgTag is automatically Monetary, regardless of the specific message content.",
+          "Dimension": "Rule: Hype/support is positive; excitement about “more pokemon LETSGO” shows an affiliative, supportive stance toward the stream."
+        }
+      },
+      {
+        "name": "D4_about_talk_sabotage_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie is playing to sabotage om"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "By guideline, playful teasing that implies lighthearted criticism is coded positive; “playing to sabotage” reads as joking, not hostile."
+        }
+      },
+      {
+        "name": "D5_pokeslayer_attachment_only",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie the PokeSlayer PokPikachu"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Attachment": "Per attachment rule, affectionate nicknames toward streamer (“Leslie the PokeSlayer”) signal warmth and admiration.",
+          "Dimension": "Per valence rule, admiring title “PokeSlayer” expresses positive, supportive stance toward the streamer."
+        }
+      },
+      {
+        "name": "D6_what_i_missed_directaddress_replyseeking_emotes",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie what i missed??? fusKiss"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "Y",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "Per guideline, streamer name as addressee counts as DirectAddress; uses “leslie” to directly address the streamer.",
+          "ReplySeeking": "Guideline: asking what happened/recap seeks response; “what i missed???” explicitly requests information from streamer/chat.",
+          "Emotes": "Guideline: any emote token counts; “fusKiss” is a Twitch-style emote.",
+          "Dimension": "Friendly, non-hostile inquiry plus a kiss emote indicates positive/affiliative stance toward streamer/community."
+        }
+      },
+      {
+        "name": "D7_shirts_hitting_directaddress_attachment_replyseeking",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie why do your shirts always be hitting lol"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "By rule, using the streamer’s name as addressee (“Leslie …”) counts as DirectAddress.",
+          "Attachment": "Guidelines mark affectionate/relational warmth; complimenting “your shirts always be hitting” shows fond appreciation of the streamer’s sty…",
+          "ReplySeeking": "Per rule, direct questions to the streamer (“why do your shirts always be hitting”) seek a response.",
+          "Dimension": "Positive/affiliative stance because the message is a playful compliment about the streamer’s clothing."
+        }
+      }
+    ],
+    "3": [
+      {
+        "name": "D1_eyecream_calcium_selfdisclose",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "it’s time for us to get on that eye cream and calcium supplements"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "Y",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "SelfDisclose": "Not just generic advice; “for us” shares a personal/collective circumstance about aging and self-care.",
+          "Dimension": "Not hostile or mocking; tone is light and supportive about shared self-care and aging."
+        }
+      },
+      {
+        "name": "D2_time_for_bed_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "its time for bed"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "Could be neutral if purely informational, but phrasing “its time for bed” is gentle and non-hostile, so marked positive."
+        }
+      },
+      {
+        "name": "D3_pokemon_letsgo_commritual_usernotice_monetary",
+        "input": {
+          "msgTag": "USERNOTICE",
+          "raw_msg": "just in time for more pokemon LETSGO"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "Y",
+          "Monetary": "Y",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "CommRitual": "Not mere statement about timing; “LETSGO” is a hype chant commonly used as a shared community ritual.",
+          "Monetary": "Not inferred from content alone; msgTag is USERNOTICE so by rule this always implies a monetary support event.",
+          "Dimension": "Not critical or hostile; excited anticipation for “more pokemon” and “LETSGO” expresses positive support for the stream."
+        }
+      },
+      {
+        "name": "D4_about_talk_sabotage_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie is playing to sabotage om"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "Though hinting at trolling (“playing to sabotage”), it’s framed as lighthearted commentary on gameplay, not an insult toward Leslie."
+        }
+      },
+      {
+        "name": "D5_pokeslayer_attachment_only",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie the PokeSlayer PokPikachu"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Attachment": "Could be just a nickname, but calling her “Leslie the PokeSlayer” expresses fond, affectionate admiration toward the streamer.",
+          "Dimension": "Playful, admiring nickname (“PokeSlayer”) shows a positive, supportive stance rather than criticism or hostility."
+        }
+      },
+      {
+        "name": "D6_what_i_missed_directaddress_replyseeking_emotes",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie what i missed??? fusKiss"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "Y",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "Could be general chat, but using “leslie” clearly targets the streamer directly as addressee.",
+          "ReplySeeking": "Not just a statement; the question “what i missed???” explicitly seeks a recap/response.",
+          "Emotes": "Could be text, but “fusKiss” is a Twitch emote token indicating emote use.",
+          "Dimension": "Not hostile or critical; friendly question plus kiss emote shows positive, affiliative stance."
+        }
+      },
+      {
+        "name": "D7_shirts_hitting_directaddress_attachment_replyseeking",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie why do your shirts always be hitting lol"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "Wouldn’t count if just talking about Leslie; here “Leslie why…” clearly addresses her directly with a second-person question.",
+          "Attachment": "Wouldn’t count if only neutral observation; praising her fashion (“your shirts always be hitting”) shows affectionate admiration.",
+          "ReplySeeking": "Wouldn’t count if it were a statement; phrasing “why do your shirts always be hitting” is an explicit question seeking response.",
+          "Dimension": "Would be N if mocking her clothes; instead, playful compliment on her shirts is positive/supportive."
+        }
+      }
+    ],
+    "4": [
+      {
+        "name": "D1_eyecream_calcium_selfdisclose",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "it’s time for us to get on that eye cream and calcium supplements"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "Y",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "SelfDisclose": "Shares a collective personal situation about aging/self-care with “us.”",
+          "Dimension": "Lighthearted, non-hostile comment about shared self-care."
+        }
+      },
+      {
+        "name": "D2_time_for_bed_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "its time for bed"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "Neutral-friendly statement about bedtime without any hostile language."
+        }
+      },
+      {
+        "name": "D3_pokemon_letsgo_commritual_usernotice_monetary",
+        "input": {
+          "msgTag": "USERNOTICE",
+          "raw_msg": "just in time for more pokemon LETSGO"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "Y",
+          "Monetary": "Y",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "CommRitual": "“LETSGO” functions as hype/chant typical of shared chat ritual.",
+          "Monetary": "msgTag is USERNOTICE, so Monetary is forced by the hard rule.",
+          "Dimension": "Excited, supportive tone about watching more Pokémon content."
+        }
+      },
+      {
+        "name": "D4_about_talk_sabotage_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie is playing to sabotage om"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "Comment about gameplay without insults or hostility, implying neutral-positive joking tone."
+        }
+      },
+      {
+        "name": "D5_pokeslayer_attachment_only",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie the PokeSlayer PokPikachu"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Attachment": "Gives Leslie a playful heroic nickname, showing affection and admiration.",
+          "Dimension": "Complimentary, playful framing (“PokeSlayer”) expresses positive, supportive stance."
+        }
+      },
+      {
+        "name": "D6_what_i_missed_directaddress_replyseeking_emotes",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie what i missed??? fusKiss"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "Y",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "Uses the streamer name “leslie” to address them directly.",
+          "ReplySeeking": "Asks “what i missed???” requesting a recap/response.",
+          "Emotes": "Contains the emote token “fusKiss”.",
+          "Dimension": "Friendly tone with affectionate emote indicates positive engagement."
+        }
+      },
+      {
+        "name": "D7_shirts_hitting_directaddress_attachment_replyseeking",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie why do your shirts always be hitting lol"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "Uses “Leslie” and “your” to address the streamer directly.",
+          "Attachment": "Compliments their shirts “always be hitting,” expressing positive regard for streamer’s style.",
+          "ReplySeeking": "Asks “why do your shirts always be hitting,” inviting an explanation.",
+          "Dimension": "Playful, complimentary tone toward the streamer’s appearance is positive/affiliative."
+        }
+      }
+    ],
+    "5": [
+      {
+        "name": "D1_eyecream_calcium_selfdisclose",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "it’s time for us to get on that eye cream and calcium supplements"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "Y",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "SelfDisclose": "Shares a personal/collective circumstance about aging and self-care using “us” and discussing eye cream and calcium supplements.",
+          "Dimension": "Non-hostile, affiliative tone talking about shared self-care implies a positive, friendly stance."
+        }
+      },
+      {
+        "name": "D2_time_for_bed_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "its time for bed"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "Neutral-friendly statement about going to bed, with no hostility or negative language toward streamer or community."
+        }
+      },
+      {
+        "name": "D3_pokemon_letsgo_commritual_usernotice_monetary",
+        "input": {
+          "msgTag": "USERNOTICE",
+          "raw_msg": "just in time for more pokemon LETSGO"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "Y",
+          "Monetary": "Y",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "CommRitual": "The hype phrase “LETSGO” functions as a coordinated chant typical of Twitch community ritual.",
+          "Monetary": "msgTag is USERNOTICE, so by hard rule this implies a monetary event regardless of the text content.",
+          "Dimension": "Enthusiastic anticipation for “more pokemon” with “LETSGO” shows a positive, supportive stance toward the stream."
+        }
+      },
+      {
+        "name": "D4_about_talk_sabotage_none",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie is playing to sabotage om"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Dimension": "Phrase “playing to sabotage” is framed as light, playful teasing about gameplay rather than genuine hostility."
+        }
+      },
+      {
+        "name": "D5_pokeslayer_attachment_only",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie the PokeSlayer PokPikachu"
+        },
+        "gold": {
+          "DirectAddress": "",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "Attachment": "Uses a playful, admiring nickname “Leslie the PokeSlayer” indicating fondness and positive regard toward the streamer.",
+          "Dimension": "Complimentary, celebratory phrasing toward Leslie conveys a positive, supportive stance."
+        }
+      },
+      {
+        "name": "D6_what_i_missed_directaddress_replyseeking_emotes",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "leslie what i missed??? fusKiss"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "Y",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "Uses streamer name “leslie” at the start, marking the message as directed to the streamer.",
+          "ReplySeeking": "Asks “what i missed???” which explicitly seeks an update/response from the streamer.",
+          "Emotes": "Contains the emote token “fusKiss” at the end of the message.",
+          "Dimension": "Friendly tone with a positive emote indicates affiliative, non-hostile engagement with the streamer."
+        }
+      },
+      {
+        "name": "D7_shirts_hitting_directaddress_attachment_replyseeking",
+        "input": {
+          "msgTag": "PRIVATEMESSAGE",
+          "raw_msg": "Leslie why do your shirts always be hitting lol"
+        },
+        "gold": {
+          "DirectAddress": "Y",
+          "Attachment": "Y",
+          "SelfDisclose": "",
+          "ReplySeeking": "Y",
+          "CommRitual": "",
+          "Monetary": "",
+          "Backseat": "",
+          "Emotes": "",
+          "Dimension": "P"
+        },
+        "rationale": {
+          "DirectAddress": "Uses the streamer’s name “Leslie” at the start, marking the message as directed to her.",
+          "Attachment": "Complimenting their shirts “always be hitting” expresses ongoing positive regard toward the streamer’s style.",
+          "ReplySeeking": "Asking “why do your shirts always be hitting” is a direct question inviting a response.",
+          "Dimension": "Overall tone is complimentary and playful, showing positive stance toward the streamer."
+        }
+      }
+    ]
+  }
+}

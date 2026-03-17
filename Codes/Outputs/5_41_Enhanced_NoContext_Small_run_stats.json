@@ -1,0 +1,9 @@
+{
+  "accumulated_seconds": 2418.7884137630463,
+  "runs": 1,
+  "total_input_tokens": 4230860,
+  "total_output_tokens": 86494,
+  "total_cached_tokens": 2499840,
+  "last_run_started_at": "2025-12-24 17:04:29",
+  "last_run_ended_at": "2025-12-24 17:44:48"
+}

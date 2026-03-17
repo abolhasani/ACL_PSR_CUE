@@ -1,0 +1,31 @@
+{
+  "accumulated_seconds": 13497.275025129318,
+  "runs": 2,
+  "total_input_tokens": 18686819,
+  "total_output_tokens": 583158,
+  "total_cached_tokens": 6215552,
+  "last_run_started_at": "2025-12-29 23:22:01",
+  "last_run_ended_at": "2025-12-30 03:06:58",
+  "per_model_tokens": {
+    "gpt-4.1-mini": {
+      "input_tokens": 5034149,
+      "output_tokens": 173016,
+      "cached_tokens": 0
+    },
+    "gpt-5.1": {
+      "input_tokens": 3584372,
+      "output_tokens": 140568,
+      "cached_tokens": 2785408
+    },
+    "gpt-4.1": {
+      "input_tokens": 5034149,
+      "output_tokens": 161680,
+      "cached_tokens": 2569984
+    },
+    "gpt-4.1-nano": {
+      "input_tokens": 5034149,
+      "output_tokens": 107894,
+      "cached_tokens": 860160
+    }
+  }
+}

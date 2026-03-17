@@ -1,0 +1,13 @@
+{
+  "accumulated_seconds": 7838.334993124008,
+  "runs": 1,
+  "total_input_tokens": 6836759,
+  "total_output_tokens": 384385,
+  "total_cached_tokens": 4495744,
+  "last_run_started_at": "2025-12-29 23:37:11",
+  "last_run_ended_at": "2025-12-30 01:47:49",
+  "liahr_copied": 1670,
+  "liahr_replaced": 850,
+  "liahr_no_candidate": 0,
+  "liahr_errors": 0
+}
