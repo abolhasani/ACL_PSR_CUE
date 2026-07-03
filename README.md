@@ -2,9 +2,13 @@
 Repository for ACL 26 Paper on PSR Annotation
 
 This project is now organized around two main folders:
-
 - `Data/`: source datasets, holdout sets, LiaHR assets, and gold labels
 - `Codes/`: annotation/evaluation notebooks and generated outputs
+
+- Link to Dataset in HuggingFace: https://huggingface.co/datasets/abolhasani/PSR_ACL
+https://aclanthology.org/2026.acl-short.51/
+
+Cite (ACL): Mohammadsadegh Abolhasani, Reza Mousavi, and Paul Jen-Hwa Hu. 2026. CaBSALLM: Efficient Context-Aware Batch Annotation of Conversational Streams with Large Language Models. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 615–636, San Diego, California, United States. Association for Computational Linguistics.
 
 ## Folder Overview
 
@@ -41,3 +45,4 @@ For details:
 
 - See `Data/README.md`
 - See `Codes/README.md`
+
